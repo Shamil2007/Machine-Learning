@@ -1,9 +1,5 @@
 # Machine Learning Repository  
 
-Welcome to my **Machine Learning Repository**! 🚀 This repository is dedicated to implementing, experimenting, and learning various machine learning techniques and algorithms.  
-
----
-
 Welcome to my **Machine Learning Projects** repository! 🎯 This repository showcases various machine learning projects and implementations, covering a wide range of algorithms, techniques, and datasets. The primary goal of this repository is to demonstrate practical applications of machine learning concepts and share knowledge with the community.
 
 ---
